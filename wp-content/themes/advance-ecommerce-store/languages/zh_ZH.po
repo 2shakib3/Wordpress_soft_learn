@@ -1,0 +1,611 @@
+# <!=Copyright (C) 2018 Themeshopy
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Advance Ecommerce Store 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-04-20 14:20+0530\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: ../../advance-ecommerce-store\n"
+
+#: 404.php:13 inc/customizer.php:962
+msgid "404 Not Found"
+msgstr "找不到404"
+
+#: 404.php:14 inc/customizer.php:972
+msgid ""
+"Looks like you have taken a wrong turn&hellip. Dont worry&hellip it happens "
+"to the best of us."
+msgstr "看来您走错了弯。别担心，这对我们所有人来说都是偶然的。"
+
+#: 404.php:17 inc/customizer.php:982
+msgid "Back to Home Page"
+msgstr "返回首页"
+
+#: archive.php:38 archive.php:66 archive.php:96 archive.php:124 archive.php:154
+#: archive.php:184 archive.php:215 image.php:38 image.php:66 image.php:96
+#: image.php:124 image.php:154 image.php:184 image.php:215 index.php:39
+#: index.php:63 index.php:89 index.php:113 index.php:139 index.php:164
+#: index.php:187 search.php:36 search.php:62 search.php:90 search.php:116
+#: search.php:144 search.php:172 search.php:201
+msgid "Previous page"
+msgstr "上一页"
+
+#: archive.php:39 archive.php:67 archive.php:97 archive.php:125 archive.php:155
+#: archive.php:185 archive.php:216 image.php:39 image.php:67 image.php:97
+#: image.php:125 image.php:155 image.php:185 image.php:216 index.php:40
+#: index.php:64 index.php:90 index.php:114 index.php:140 index.php:165
+#: index.php:188 search.php:37 search.php:63 search.php:91 search.php:117
+#: search.php:145 search.php:173 search.php:202
+msgid "next page"
+msgstr "下一页"
+
+#: archive.php:40 archive.php:68 archive.php:98 archive.php:126 archive.php:157
+#: archive.php:186 archive.php:217 image.php:40 image.php:68 image.php:98
+#: image.php:126 image.php:156 image.php:186 image.php:217 index.php:41
+#: index.php:65 index.php:91 index.php:115 index.php:141 index.php:166
+#: index.php:189 search.php:38 search.php:64 search.php:92 search.php:118
+#: search.php:146 search.php:174 search.php:203
+#: template-parts/single-post.php:32
+msgid "page"
+msgstr "页"
+
+#: comments.php:28
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "一种关于“％s”的想法"
+
+#: comments.php:38
+msgid "comments title"
+msgstr "评论标题"
+
+#: comments.php:68
+msgid "Comments are closed"
+msgstr "评论被关闭"
+
+#: footer.php:50
+msgid "By Themeshopy"
+msgstr "通过Themeshopy"
+
+#: footer.php:57 footer.php:59 footer.php:61
+msgid "Scroll to Top"
+msgstr "滚动到顶部"
+
+#: functions.php:33
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:34 header.php:64 header.php:68
+msgid "Woocommerce Menu"
+msgstr "Woocommerce菜单"
+
+#: functions.php:35 header.php:40
+msgid "Responsive Menu"
+msgstr "响应式菜单"
+
+#: functions.php:68
+msgid ""
+"Thank you for choosing ThemeShopy. We are sincerely obliged to offer our "
+"best services to you. Please proceed towards welcome page and give us the "
+"privilege to serve you."
+msgstr ""
+"感谢您选择ThemeShopy。我们真诚地有义务为您提供最好的服务。请进入欢迎页面，并"
+"赋予我们为您服务的特权。"
+
+#: functions.php:69
+msgid "Click here..."
+msgstr "点击这里..."
+
+#: functions.php:76
+msgid "Blog Sidebar"
+msgstr "博客侧栏"
+
+#: functions.php:77
+msgid "Appears on blog page sidebar"
+msgstr "出现在博客页面侧栏上"
+
+#: functions.php:86
+msgid "page sidebar"
+msgstr "页面侧栏"
+
+#: functions.php:87 functions.php:97
+msgid "Appears on page sidebar"
+msgstr "出现在页面侧栏上"
+
+#: functions.php:96
+msgid "Third Column Sidebar"
+msgstr "第三栏侧栏"
+
+#: functions.php:109
+msgid "Footer Nav"
+msgstr "页脚导航"
+
+#: functions.php:120
+msgid "Home Page Sidebar"
+msgstr "主页侧边栏"
+
+#: functions.php:121
+msgid "Appears on home page"
+msgstr "出现在首页上"
+
+#: functions.php:130
+msgid "Social Media Widget"
+msgstr "社交媒体小工具"
+
+#: functions.php:131
+msgid "Appears on topbar"
+msgstr "出现在顶部栏上"
+
+#: functions.php:140
+msgid "Shop Page Sidebar"
+msgstr "商店页面侧栏"
+
+#: functions.php:150
+msgid "Single Product Page Sidebar"
+msgstr "单产品页面侧栏"
+
+#: functions.php:141 functions.php:151
+msgid "Appears on shop page"
+msgstr "出现在商店页面上"
+
+#: functions.php:413
+msgid "Ecommerce Wordpress Theme"
+msgstr "电子商务WordPress主题"
+
+#: header.php:33
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: header.php:37
+msgid "Open Menu"
+msgstr "开启选单"
+
+#: header.php:54
+msgid "Close Menu"
+msgstr "关闭选单"
+
+#: header.php:116
+msgid "My Account"
+msgstr "我的帐户"
+
+#: header.php:128
+msgid "SHOPPING CART"
+msgstr "购物车"
+
+#: header.php:138
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "没有发现"
+
+#: no-results.php:14
+msgid "Ready to publish your first post? Get started here"
+msgstr "准备发布您的第一篇文章吗？从这里开始"
+
+#: no-results.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr "抱歉，没有符合您的搜索条件。请使用一些其他关键字再试一次"
+
+#: no-results.php:19
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "别担心，这对我们所有人来说都是偶然的。"
+
+#: no-results.php:21
+msgid "Return to Home Page"
+msgstr "返回首页"
+
+#: search.php:22 search.php:48 search.php:76 search.php:102 search.php:130
+#: search.php:158 search.php:187
+msgid "Results For: %s"
+msgstr "结果：％s"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "搜索："
+
+#: searchform.php:12 searchform.php:14
+msgid "Search"
+msgstr "搜索"
+
+#: searchform.php:12
+msgid "placeholder"
+msgstr "占位符"
+
+#: searchform.php:14
+msgid "submit button"
+msgstr "提交按钮"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "元"
+
+#: template-parts/single-post.php:26 template-parts/content.php:26
+#: template-parts/grid-layout.php:27 template-parts/content-audio.php:35
+#: template-parts/content-gallery.php:26 template-parts/content-image.php:26
+#: template-parts/content-video.php:34
+msgid "0 Comment"
+msgstr "0条留言"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "页数："
+
+#: template-parts/single-post.php:64 template-parts/image-layout.php:43
+msgid "Parent post link"
+msgstr "父帖子链接"
+
+#: template-parts/single-post.php:69 template-parts/image-layout.php:48
+msgid "Next"
+msgstr "下一个"
+
+#: template-parts/single-post.php:70 template-parts/image-layout.php:49
+msgid "Next post:"
+msgstr "下一篇："
+
+#: template-parts/single-post.php:71 template-parts/image-layout.php:50
+msgid "Previous post:"
+msgstr "上一篇："
+
+#: template-parts/single-post.php:72 template-parts/image-layout.php:51
+msgid "Previous"
+msgstr "以前"
+
+#: page-template/custom-front-page.php:13
+msgid "CATEGORIES"
+msgstr "类别"
+
+#: page-template/custom-front-page.php:82 template-parts/content.php:43
+#: template-parts/grid-layout.php:37 template-parts/content-audio.php:65
+#: template-parts/content-gallery.php:54 template-parts/content-image.php:43
+#: template-parts/content-video.php:64
+msgid "READ MORE"
+msgstr "阅读更多"
+
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/customizer.php:20
+msgid "Theme Settings"
+msgstr "主题设定"
+
+#: inc/customizer.php:21
+msgid "Description of what this panel does."
+msgstr "此面板功能的说明。"
+
+#: inc/customizer.php:121
+msgid "Typography"
+msgstr "版式"
+
+#: inc/customizer.php:132
+msgid "Paragraph Color"
+msgstr "段落颜色"
+
+#: inc/customizer.php:146
+msgid "Paragraph Fonts"
+msgstr "段落字体"
+
+#: inc/customizer.php:156
+msgid "Paragraph Font Size"
+msgstr "段落字体大小"
+
+#: inc/customizer.php:168
+msgid "\"a\" Tag Color"
+msgstr "“ a”标签颜色"
+
+#: inc/customizer.php:182
+msgid "\"a\" Tag Fonts"
+msgstr "“ a”标签字体"
+
+#: inc/customizer.php:192
+msgid "\"li\" Tag Color"
+msgstr "“ li”标签颜色"
+
+#: inc/customizer.php:207
+msgid "\"li\" Tag Fonts"
+msgstr "“ li”标签字体"
+
+#: inc/customizer.php:218
+msgid "H1 Color"
+msgstr "H1颜色"
+
+#: inc/customizer.php:232
+msgid "H1 Fonts"
+msgstr "H1字体"
+
+#: inc/customizer.php:243
+msgid "H1 Font Size"
+msgstr "H1字体大小"
+
+#: inc/customizer.php:255
+msgid "H2 Color"
+msgstr "H2颜色"
+
+#: inc/customizer.php:269
+msgid "H2 Fonts"
+msgstr "H2字体"
+
+#: inc/customizer.php:280
+msgid "H2 Font Size"
+msgstr "H2字体大小"
+
+#: inc/customizer.php:292
+msgid "H3 Color"
+msgstr "H3颜色"
+
+#: inc/customizer.php:306
+msgid "H3 Fonts"
+msgstr "H3字体"
+
+#: inc/customizer.php:317
+msgid "H3 Font Size"
+msgstr "H3字体大小"
+
+#: inc/customizer.php:329
+msgid "H4 Color"
+msgstr "H4颜色"
+
+#: inc/customizer.php:343
+msgid "H4 Fonts"
+msgstr "H4字体"
+
+#: inc/customizer.php:354
+msgid "H4 Font Size"
+msgstr "H4字体大小"
+
+#: inc/customizer.php:366
+msgid "H5 Color"
+msgstr "H5颜色"
+
+#: inc/customizer.php:380
+msgid "H5 Fonts"
+msgstr "H5字体"
+
+#: inc/customizer.php:391
+msgid "H5 Font Size"
+msgstr "H5字体大小"
+
+#: inc/customizer.php:403
+msgid "H6 Color"
+msgstr "H6颜色"
+
+#: inc/customizer.php:417
+msgid "H6 Fonts"
+msgstr "H6字体"
+
+#: inc/customizer.php:428
+msgid "H6 Font Size"
+msgstr "H6字体大小"
+
+#: inc/customizer.php:758
+msgid "Button Option"
+msgstr "按钮选项"
+
+#: inc/customizer.php:767
+msgid "Top and Bottom Padding"
+msgstr "顶部和底部填充"
+
+#: inc/customizer.php:782
+msgid "Left and Right Padding"
+msgstr "左右填充"
+
+#: inc/customizer.php:797
+msgid "Button Border Radius"
+msgstr "按钮边框半径"
+
+#: inc/customizer.php:809
+msgid "Slider Settings"
+msgstr "滑块设置"
+
+#: inc/customizer.php:820
+msgid "Show / Hide slider"
+msgstr "显示/隐藏滑块"
+
+#: inc/customizer.php:832
+msgid "Select Slide Image Page"
+msgstr "选择幻灯片图像页面"
+
+#: inc/customizer.php:840 inc/customizer.php:849 inc/customizer.php:1191
+msgid "Left"
+msgstr "剩下"
+
+#: inc/customizer.php:845
+msgid "Slider Content Alignment"
+msgstr "滑块内容对齐"
+
+#: inc/customizer.php:848 inc/customizer.php:1193
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer.php:850 inc/customizer.php:1183 inc/customizer.php:1192
+msgid "Right"
+msgstr "对"
+
+#: inc/customizer.php:863
+msgid "Slider Excerpt length"
+msgstr "滑块摘录长度"
+
+#: inc/customizer.php:880
+msgid "Slider Image Opacity"
+msgstr "滑块图像不透明度"
+
+#: inc/customizer.php:900
+msgid "Product Services"
+msgstr "产品服务"
+
+#: inc/customizer.php:924
+msgid "Select Category to display Services"
+msgstr "选择类别以显示服务"
+
+#: inc/customizer.php:930
+msgid "New Arrivals"
+msgstr "新来港定居人士"
+
+#: inc/customizer.php:940
+msgid "Section Title"
+msgstr "节标题"
+
+#: inc/customizer.php:950
+msgid "Select Page"
+msgstr "选择页面"
+
+#: inc/customizer.php:957
+msgid "404 Page"
+msgstr "404页"
+
+#: inc/customizer.php:966
+msgid "404 Page Title"
+msgstr "404页面标题"
+
+#: inc/customizer.php:976
+msgid "404 Page Content"
+msgstr "404页面内容"
+
+#: inc/customizer.php:986
+msgid "404 Page Button"
+msgstr "404页面按钮"
+
+#: inc/customizer.php:993
+msgid "Responsive Setting"
+msgstr "响应式设置"
+
+#: inc/customizer.php:1003
+msgid "Sticky Header"
+msgstr "粘页眉"
+
+#: inc/customizer.php:1013
+msgid "Slider"
+msgstr "滑杆"
+
+#: inc/customizer.php:1023
+msgid "Scroll To Top"
+msgstr "滚动到顶部"
+
+#: inc/customizer.php:1033
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: inc/customizer.php:1039
+msgid "Blog Page Settings"
+msgstr "博客页面设置"
+
+#: inc/customizer.php:1049
+msgid "Post Date"
+msgstr "发布日期"
+
+#: inc/customizer.php:1059
+msgid "Comments"
+msgstr "注释"
+
+#: inc/customizer.php:1069
+msgid "Author"
+msgstr "作者"
+
+#: inc/customizer.php:1079
+msgid "Single Post Tags"
+msgstr "单帖标签"
+
+#: inc/customizer.php:1089
+msgid "Post Description Length"
+msgstr "帖子描述长度"
+
+#: inc/customizer.php:1092
+msgid "No Content"
+msgstr "无内容"
+
+#: inc/customizer.php:1093
+msgid "Excerpt Content"
+msgstr "摘录内容"
+
+#: inc/customizer.php:1094
+msgid "Full Content"
+msgstr "全部内容"
+
+#: inc/customizer.php:1106
+msgid "Excerpt length"
+msgstr "摘录长度"
+
+#: inc/customizer.php:1118
+msgid "..."
+msgstr "..."
+
+#: inc/customizer.php:1122
+msgid "Post Excerpt Indicator Option"
+msgstr "摘录后指示器选项"
+
+#: inc/customizer.php:1129
+msgid "Read More"
+msgstr "阅读更多"
+
+#: inc/customizer.php:1133
+msgid "Add Button Text"
+msgstr "添加按钮文字"
+
+#: inc/customizer.php:1140
+msgid "Footer Text"
+msgstr "页脚文字"
+
+#: inc/customizer.php:1151
+msgid "Footer widget area"
+msgstr "页脚小部件区域"
+
+#: inc/customizer.php:1153
+msgid ""
+"Select the number of widget areas you want in the footer. After that, go to "
+"Appearance > Widgets and add your widgets."
+msgstr ""
+"在页脚中选择所需的小部件区域数。之后，转到外观>小部件并添加您的小部件。"
+
+#: inc/customizer.php:1155
+msgid "One"
+msgstr "一"
+
+#: inc/customizer.php:1156
+msgid "Two"
+msgstr "二"
+
+#: inc/customizer.php:1157
+msgid "Three"
+msgstr "三"
+
+#: inc/customizer.php:1158
+msgid "Four"
+msgstr "四个"
+
+#: inc/customizer.php:1167
+msgid "Copyright Text"
+msgstr "版权文字"
+
+#: inc/customizer.php:1178
+msgid "Show / Hide Scroll To Top"
+msgstr "显示/隐藏滚动到顶部"
+
+#: inc/customizer.php:1188
+msgid "Scroll Back to Top Position"
+msgstr "滚动回到顶部位置"
+
+#: inc/customizer.php:1278
+msgid "Ecommerce Pro Theme"
+msgstr "电子商务专业版主题"
+
+#: inc/customizer.php:1279
+msgid "Go Pro"
+msgstr "专业版"
